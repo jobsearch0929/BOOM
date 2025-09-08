@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0022e38b8a0e98b4e88f5e32951a56f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BoomPrefab: {fileID: 100000, guid: 4c5a17ca1f9fec84e941441ebb8be079, type: 3}
+  - boomSound: {fileID: 8300000, guid: 37034d0e2d556c6478e87fb18b36e0f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
